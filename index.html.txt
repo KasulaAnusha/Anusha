@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kasula Anusha Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      margin-bottom: 10px;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .contact-info {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="section">
+    <h1>Kasula Anusha</h1>
+    <div class="contact-info">
+      <p>Ph.No: +91-8897468717</p>
+      <p>Mail ID: kasulaanugoud@gmail.com</p>
+    </div>
+    <h2>Objective:</h2>
+    <p>To be associated with a high growth Organization and futuristic Organization in order to hone my skills and contribute to the growth of the Organization.</p>
+  </div>
+  <div class="section">
+    <h2>Experience:</h2>
+    <p><strong>ARIV careers PVT - LTD</strong></p>
+    <p>Worked for 1 year in international voice process (process related to the United States and gulf countries.), As an IT technical recruiter from June 25, 2020 to June 29, 2021.</p>
+    <!-- Add other experiences similarly -->
+  </div>
+  <!-- Add sections for skills, projects, education, strengths, hobbies, and additional information similarly -->
+  <div class="section">
+    <h2>Skills:</h2>
+    <ul>
+      <li>Recruiting Life Cycle</li>
+      <li>Talent Acquisition</li>
+      <li>ATS Software</li>
+      <!-- Add other skills similarly -->
+    </ul>
+  </div>
+  <div class="section">
+    <h2>Projects:</h2>
+    <p><strong>Mini project: Home Automation system using verilog HDL</strong></p>
+    <p>Description: Scope of project is to design a home automation system that is capable of providing high security and always maintaining desired temperature, luminosity and controlling according to human presence. The academic goal of this project is to develop specific skills in designing, testing and debugging tools used by Xilinx ISE Software.</p>
+    <!-- Add other projects similarly -->
+  </div>
+  <div class="section">
+    <h2>Achievements:</h2>
+    <p>PCB workshop, Dancing in college Events</p>
+    <!-- Add other achievements similarly -->
+  </div>
+  <div class="section">
+    <h2>Educational Qualification:</h2>
+    <p>Graduated in B.tech (ECE): from Bharat Institute of engineering & Technology (JNTUH), Hyderabad</p>
+    <!-- Add other education details similarly -->
+  </div>
+  <div class="section">
+    <h2>Strengths:</h2>
+    <ul>
+      <li>Ability to learn and develop using new tools and technologies quickly.</li>
+      <li>Self-starter, multi-tasking, attention to detail, ability to work with minimal supervision.</li>
+      <!-- Add other strengths similarly -->
+    </ul>
+  </div>
+  <div class="section">
+    <h2>Hobbies:</h2>
+    <p>Dancing & Listing to music.</p>
+    <!-- Add other hobbies similarly -->
+  </div>
+  <div class="section">
+    <h2>Additional Information:</h2>
+    <p>Father’s Name: Kasula Suresh</p>
+    <p>Date of Birth: 27 -12 -1997</p>
+    <p>Marital Status: Single</p>
+    <!-- Add other additional information similarly -->
+  </div>
+  <p>I hereby declare that the above information provided by me is true to the best of my knowledge & I would prove my abilities to help in the development of the organization if provided me a chance.</p>
+  <p>Yours sincerely</p>
+  <p>Date: Kasula Anusha</p>
+</body>
+</html>
+
